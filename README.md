@@ -1,2 +1,2 @@
-# microservices-demo
+# jhipster-microservices-example
 Demo for microservices
